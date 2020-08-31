@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f662d253-2a6f-42ad-93e9-919bb1f93de5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UWP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_3.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9_1.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9_2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/BlankPage1.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/BlankPage1.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UWP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UWP/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/UWP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_1.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gdsEzH5FaXeUElDBKmkGcPLwHA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UWP/Properties" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f662d253-2a6f-42ad-93e9-919bb1f93de5" name="Default Changelist" comment="" />
+      <created>1598455695423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598455695423</updated>
+      <workItem from="1598455696571" duration="702000" />
+      <workItem from="1598869293076" duration="502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="423" key="Github.ShareDialog" timestamp="1598455781436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="838" y="423" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598455781436" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598455726747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598455726747" />
+  </component>
+</project>
