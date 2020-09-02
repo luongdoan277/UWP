@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-25T10:11:43.769</Modified>
+      <Modified>2020-08-31T10:40:50.884</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP.exe">
       <PackagePath>entrypoint\UWP.exe</PackagePath>
-      <Modified>2020-08-25T10:11:43.158</Modified>
+      <Modified>2020-08-31T10:40:49.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,15 +86,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP.xr.xml">
       <PackagePath>UWP.xr.xml</PackagePath>
-      <Modified>2020-08-25T10:11:42.970</Modified>
+      <Modified>2020-08-31T10:40:49.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-25T09:44:35.835</Modified>
+      <Modified>2020-08-31T10:40:49.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-25T10:11:42.992</Modified>
+      <Modified>2020-08-31T10:40:49.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +102,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-25T09:44:37.160</Modified>
+      <Modified>2020-08-31T10:40:50.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\Core\UWP.exe">
       <PackagePath>UWP.exe</PackagePath>
-      <Modified>2020-08-25T10:11:43.759</Modified>
+      <Modified>2020-08-31T10:40:50.874</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -11,25 +11,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f662d253-2a6f-42ad-93e9-919bb1f93de5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UWP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_2.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_3.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9_1.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/Properties/UWP9_2.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/BlankPage1.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/BlankPage1.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U04/U04.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/UWP15.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/UWP15.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP11.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP11.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP13.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP13.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP15.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP15.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_1.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_1.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_2.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_2.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_3.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP8_3.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9_1.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9_1.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9_2.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP9_2.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/UWP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UWP/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/MainPage.xaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UWP/UWP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/Properties/UWP8_1.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/UWP.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/UWP.xr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/UWP.xr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/entrypoint/UWP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/entrypoint/UWP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/vs.appxrecipe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.xr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/bin/x86/Debug/UWP.xr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.xr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.xr.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/intermediatexaml/UWP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/intermediatexaml/UWP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/intermediatexaml/UWP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/intermediatexaml/UWP.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +86,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/UWP/Properties" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UWP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,6 +95,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luong doan\source\repos\UWP\UWP" />
+      <recent name="C:\Users\Luong doan\source\repos\UWP\UWP\Properties" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +111,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598455695423</updated>
       <workItem from="1598455696571" duration="702000" />
-      <workItem from="1598869293076" duration="502000" />
+      <workItem from="1598869293076" duration="1459000" />
+      <workItem from="1598921450378" duration="16000" />
+      <workItem from="1599039207869" duration="208000" />
     </task>
     <servers />
   </component>
