@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="UWP25.UWP26"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP25"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <!--Scroll auto-->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Image Source="Assets/Financial2.png" Height="Auto" Stretch="None"/>
+        </ScrollViewer>
+        <!--No scroll because ScrollViewer inside of a StackPanel-->
+        <StackPanel>
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <Image Source="Assets/Financial2.png" Height="Auto" Width="Auto"  Stretch="None"/>
+            </ScrollViewer>
+        </StackPanel>
+        <!--Correct-->
+        <ScrollViewer Grid.Row="1" Grid.Column="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Image Source="Assets/Financial2.png" Height="800" Stretch="None"/>
+                <Image Source="Assets/food1.png" Height="800" Stretch="None"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

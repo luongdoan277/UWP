@@ -6,7 +6,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" d:DesignHeight="666.006">
 
     <StackPanel Width="500" HorizontalAlignment="Left">
         <Grid Margin="0,0,0,20">
@@ -63,6 +63,5 @@
                 <Rectangle Fill="Yellow" Width="100" Height="30"/>
             </StackPanel>
         </Grid>
-
     </StackPanel>
 </Page>
