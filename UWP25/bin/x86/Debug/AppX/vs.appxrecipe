@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-04T07:08:14.066</Modified>
+      <Modified>2020-09-05T07:09:11.559</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\UWP25.exe">
       <PackagePath>entrypoint\UWP25.exe</PackagePath>
-      <Modified>2020-09-04T07:08:13.340</Modified>
+      <Modified>2020-09-05T07:09:10.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -106,19 +106,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-09-04T07:08:13.153</Modified>
+      <Modified>2020-09-05T07:09:10.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-04T07:08:13.153</Modified>
+      <Modified>2020-09-05T07:09:10.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\UWP26.xbf">
       <PackagePath>UWP26.xbf</PackagePath>
-      <Modified>2020-09-04T07:08:13.153</Modified>
+      <Modified>2020-09-05T07:09:10.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\UWP27.xbf">
       <PackagePath>UWP27.xbf</PackagePath>
-      <Modified>2020-09-04T07:08:13.153</Modified>
+      <Modified>2020-09-05T07:09:10.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -130,7 +130,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP25\bin\x86\Debug\Core\UWP25.exe">
       <PackagePath>UWP25.exe</PackagePath>
-      <Modified>2020-09-04T07:08:14.055</Modified>
+      <Modified>2020-09-05T07:09:11.530</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

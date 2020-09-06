@@ -11,373 +11,337 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f662d253-2a6f-42ad-93e9-919bb1f93de5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UWP20/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Assets/hats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Package.appxmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/UWP20.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/UWP20.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Assets/hats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/UWP20.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/WinMetadata/Windows.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/entrypoint/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/Core/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/UWP20.build.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/UWP20.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/UWP20.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/bin/x86/Debug/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/UWP20.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/UWP20.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/UWP20.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/.winmd_cache/$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/MultipleQualifiersPerDimensionFound.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/UWP20.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/embed/embed.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/embed/embed.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/excluded.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/excluded.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/filtered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/filtered.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/intermediatexaml/UWP20.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/intermediatexaml/UWP20.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/pri.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/priconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/priconfig.xml.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/qualifiers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/qualifiers.txt.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/resources.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/resources.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/unfiltered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP20/obj/x86/Debug/unfiltered.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Financial1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Financial2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Financial3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/food1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/food2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Assets/food3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Package.appxmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP21.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP21.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP23-Financial.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP23-Financial.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP23-Food.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP23-Food.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP24.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/UWP24.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Financial1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Financial2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Financial3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/food1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/food2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Assets/food3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/UWP21.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/UWP21.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/UWP23-Financial.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/UWP23-Food.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/UWP24.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/WinMetadata/Windows.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/Core/UWP21.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP21.build.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP21.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP21.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP21.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP23-Financial.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP23-Food.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/UWP24.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/bin/x86/Debug/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/UWP21.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/UWP21.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/UWP21.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/.winmd_cache/$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/BlankPage1.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/BlankPage1.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/MultipleQualifiersPerDimensionFound.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Financial.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Financial.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Financial.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Financial.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Food.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Food.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Food.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP23-Food.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP24.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP24.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP24.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP24.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/embed/embed.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/embed/embed.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/excluded.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/excluded.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/filtered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/filtered.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/intermediatexaml/UWP21.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/intermediatexaml/UWP21.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/pri.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/priconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/priconfig.xml.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/qualifiers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/qualifiers.txt.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/resources.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/resources.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/unfiltered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/unfiltered.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/Financial2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/food1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/food2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Assets/food3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Package.appxmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/UWP25.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/UWP26.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/UWP26.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/UWP27.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/UWP27.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/Financial2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/SplashScreen.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/food1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/food2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Assets/food3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/Properties/Default.rd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP25.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP26.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP27.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/WinMetadata/Windows.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/entrypoint/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/Core/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/System.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.build.appxrecipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP26.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP27.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/resources.pri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/UWP25.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/UWP25.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/UWP25.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/.winmd_cache/$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MultipleQualifiersPerDimensionFound.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.xr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.xbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/embed/embed.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/embed/embed.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/excluded.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/excluded.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/filtered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/filtered.layout.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/pri.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/priconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/priconfig.xml.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/qualifiers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/qualifiers.txt.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/resources.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/resources.resfiles.intermediate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/unfiltered.layout.resfiles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/unfiltered.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/StoreLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Dictionary1.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Dictionary2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/MainPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Package.appxmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/Properties/Default.rd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/UWP28.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/UWP28.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/UWP29.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/UWP29.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/StoreLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Dictionary1.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Dictionary2.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/Properties/Default.rd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/System.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/UWP28.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/WinMetadata/Windows.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/entrypoint/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/resources.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/Core/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/Dictionary1.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/Dictionary2.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/System.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/UWP28.build.appxrecipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/UWP28.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/UWP28.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/bin/x86/Debug/resources.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/UWP28.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/UWP28.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/UWP28.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/.winmd_cache/$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary1.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary1.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary1.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary1.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary2.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary2.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/Dictionary2.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/MultipleQualifiersPerDimensionFound.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP28.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP29.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/UWP29.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/embed/embed.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/embed/embed.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/excluded.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/excluded.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/filtered.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/filtered.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/intermediatexaml/UWP28.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/intermediatexaml/UWP28.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/pri.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/priconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/priconfig.xml.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/qualifiers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/qualifiers.txt.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/resources.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/resources.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/unfiltered.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP28/obj/x86/Debug/unfiltered.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/StoreLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/UWP-031-A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/UWP-031-B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/UWP-031-C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/UWP-031-D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/coffee-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/color-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/complete-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/donut-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/schedule-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/ticket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Assets/white-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/CoffeePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/CoffeePage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/CompletePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/CompletePage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/DonutPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/DonutPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/MainPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Package.appxmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/Properties/Default.rd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/SchedulePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/SchedulePage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/UWP31.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/StoreLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/UWP-031-A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/UWP-031-B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/UWP-031-C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/UWP-031-D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/coffee-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/color-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/complete-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/donut-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/schedule-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/ticket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Assets/white-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/CoffeePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/CompletePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/DonutPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/Properties/Default.rd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/SchedulePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/System.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/UWP31.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/WinMetadata/Windows.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/entrypoint/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/resources.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/CoffeePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/CompletePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/Core/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/DonutPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/Microsoft.UI.Xaml.Markup.winmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/SchedulePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/System.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/UWP31.build.appxrecipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/UWP31.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/UWP31.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/bin/x86/Debug/resources.pri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/UWP31.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/UWP31.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/UWP31.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/.winmd_cache/$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/App.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CoffeePage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CoffeePage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CoffeePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CoffeePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CompletePage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CompletePage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CompletePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/CompletePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/DonutPage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/DonutPage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/DonutPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/DonutPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/MultipleQualifiersPerDimensionFound.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/SchedulePage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/SchedulePage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/SchedulePage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/SchedulePage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/UWP31.xr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/embed/embed.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/embed/embed.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/excluded.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/excluded.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/filtered.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/filtered.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/intermediatexaml/UWP31.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/intermediatexaml/UWP31.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/pri.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/priconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/priconfig.xml.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/qualifiers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/qualifiers.txt.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/resources.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/resources.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/unfiltered.layout.resfiles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP31/obj/x86/Debug/unfiltered.layout.resfiles.intermediate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/LockScreenLogo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/SplashScreen.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/Square150x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/Square44x44Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/Square44x44Logo.targetsize-24_altform-unplated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/StoreLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Assets/Wide310x150Logo.scale-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Desktop_UWP39.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Desktop_UWP39.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/MainPage.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Package.appxmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/Properties/Default.rd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/UWP37.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/UWP38.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/UWP38.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/UsingBlendForVisualStates_U37.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/UsingBlendForVisualStates_U37.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/VisualStates.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/VisualStates.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/UWP37.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/UWP37.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/UWP37.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/Desktop_UWP39.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/Desktop_UWP39.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UWP37.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UWP37.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UWP38.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UWP38.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UsingBlendForVisualStates_U37.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/UsingBlendForVisualStates_U37.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/VisualStates.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/VisualStates.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWP37/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/UWP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UWP/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U04/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/U04/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U04/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/U04/MainPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U04/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/U04/Properties/AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UWP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/UWP.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/MainPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/UWP15.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP15.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/UWP15.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP15.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/UWP17_1.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP17_1.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/UWP17_2.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP17_2.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/UWP17_3.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/UWP17_3.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP15.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP15.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_1.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_1.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_2.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_2.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_3.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/UWP17_3.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/MainPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/MainPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/Page1.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/Page1.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/Page2.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/Page2.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/Page3.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/Page3.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UWP19/obj/x86/Debug/UWP19.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP19/obj/x86/Debug/UWP19.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWP21/obj/x86/Debug/UWP21.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP26.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP26.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP27.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/UWP27.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/entrypoint/UWP25.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/entrypoint/UWP25.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/vs.appxrecipe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP25.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP26.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP26.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP27.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/bin/x86/Debug/UWP27.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP25.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP26.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/UWP27.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UWP25/obj/x86/Debug/intermediatexaml/UWP25.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,7 +397,8 @@
       <workItem from="1598921450378" duration="16000" />
       <workItem from="1599039207869" duration="208000" />
       <workItem from="1599040920956" duration="580000" />
-      <workItem from="1599203126497" duration="605000" />
+      <workItem from="1599203126497" duration="922000" />
+      <workItem from="1599379097460" duration="963000" />
     </task>
     <servers />
   </component>
@@ -460,6 +425,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="838" y="423" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598455781436" />
+    <state x="702" y="222" key="VCS.ChangeListViewerDialog" timestamp="1599203906446">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="702" y="222" key="VCS.ChangeListViewerDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599203906446" />
     <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598455726747">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

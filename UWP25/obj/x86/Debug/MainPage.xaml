@@ -25,16 +25,19 @@
             <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        <!--Selection time-->
         <TextBlock Grid.Row="0" Text="TimePiker" VerticalAlignment="Center"/>
         <TimePicker Grid.Row="0" Grid.Column="1" ClockIdentifier="12HourClock" Margin="20,0,0,20"/>
+        <!--Choose data in calender-->
         <TextBlock Grid.Row="1" Text="CalendarPicker" VerticalAlignment="Center"/>
         <CalendarDatePicker Grid.Row="1" Grid.Column="1" Margin="20,0,0,20" PlaceholderText="choose a date"/>
-
+        <!--Calender-->
         <TextBlock Grid.Row="2" Text="CalendarView" VerticalAlignment="Center"/>
         <StackPanel Grid.Row="2" Grid.Column="1" Margin="20,0,0,20" HorizontalAlignment="Left">
             <CalendarView x:ConnectionId='9' x:Name="MyCalendarView" SelectionMode="Multiple"                                                           />
             <TextBlock x:ConnectionId='10' x:Name="CalendarViewResultTextBlock"/>
         </StackPanel>
+        <!--Popup-->
         <TextBlock Grid.Row="3" Text="Flyout" VerticalAlignment="Center"/>
         <Button x:ConnectionId='2' x:Name="MyFlyoutButton" Margin="20,0,0,20" Grid.Row="3" Grid.Column="1" Content="Flyout">
             <Button.Flyout>
@@ -46,6 +49,7 @@
                 </Flyout>
             </Button.Flyout>
         </Button>
+        <!--Menu Subnavigation-->
         <TextBlock Grid.Row="4" Text="FlyoutMenu" VerticalAlignment="Center"/>
         <Button Grid.Row="4" Margin="20,0,0,20" Grid.Column="1" Content="FlyoutMenu">
             <Button.Flyout>
@@ -65,12 +69,16 @@
                 </MenuFlyout>
             </Button.Flyout>
         </Button>
+        <!--Suggest Box-->
         <TextBlock Grid.Row="5" Text="AutosuggestBox" VerticalAlignment="Center"/>
         <AutoSuggestBox x:ConnectionId='3' Name="MyAutoSuggestBox" Margin="20,0,0,20" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Left" QueryIcon="Find" PlaceholderText="Find Something" Width="200"                                           />
+        <!--Slider-->
         <TextBlock Text="Slider" Grid.Row="6" VerticalAlignment="Center"/>
         <Slider x:ConnectionId='4' x:Name="MySlider" Margin="20,0,0,20" Grid.Row="6" Grid.Column="1" HorizontalAlignment="Left" Maximum="100" Minimum="0" Width="200"/>
+        <!--Progress Bar-->
         <TextBlock Grid.Row="7" Text="ProgressBar" VerticalAlignment="Center"/>
         <ProgressBar x:ConnectionId='5' x:Name="MyProgressBar" Margin="20,0,0,20" Grid.Row="7" Grid.Column="1" HorizontalAlignment="Left" Width="200" Maximum="100"                                            />
+        <!--Loading-->
         <TextBlock Grid.Row="8" Text="Progress Ring" VerticalAlignment="Center"/>
         <ProgressRing x:ConnectionId='6' Name="MyProgressRing" Margin="20,0,0,20" Grid.Row="8" Grid.Column="1" HorizontalAlignment="Left" Width="50" Height="50" IsActive="True"/>
     </Grid>
