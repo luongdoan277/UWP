@@ -61,7 +61,7 @@
                 <TextBlock Text="Complete" Foreground="White"/>
             </StackPanel>
         </Button>
-        <Grid Grid.Row="1">
+        <Grid Grid.Row="1" Grid.ColumnSpan="4">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="2*"/>
                 <ColumnDefinition Width="1*"/>
