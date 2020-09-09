@@ -30,13 +30,25 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-09T04:48:12.079</Modified>
+      <Modified>2020-09-09T07:51:36.232</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\UWP41.exe">
       <PackagePath>entrypoint\UWP41.exe</PackagePath>
-      <Modified>2020-09-09T04:48:11.703</Modified>
+      <Modified>2020-09-09T07:51:35.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\.nuget\packages\gremlin.net\3.4.8\lib\netstandard2.0\Gremlin.Net.dll">
+      <PackagePath>Gremlin.Net.dll</PackagePath>
+      <Modified>2020-08-07T03:37:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2018-03-24T10:44:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\.nuget\packages\polly\7.2.0\lib\netstandard2.0\Polly.dll">
+      <PackagePath>Polly.dll</PackagePath>
+      <Modified>2019-11-27T13:10:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -110,15 +122,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\UWP41.xr.xml">
       <PackagePath>UWP41.xr.xml</PackagePath>
-      <Modified>2020-09-09T04:35:28.171</Modified>
+      <Modified>2020-09-09T07:51:35.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-09-09T04:48:11.570</Modified>
+      <Modified>2020-09-09T07:38:35.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\ContactTemplate.xbf">
+      <PackagePath>ContactTemplate.xbf</PackagePath>
+      <Modified>2020-09-09T07:38:35.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-09T04:48:11.570</Modified>
+      <Modified>2020-09-09T07:51:35.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -126,11 +142,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-09-09T03:09:55.985</Modified>
+      <Modified>2020-09-09T07:12:23.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP41\bin\x86\Debug\Core\UWP41.exe">
       <PackagePath>UWP41.exe</PackagePath>
-      <Modified>2020-09-09T04:48:12.076</Modified>
+      <Modified>2020-09-09T07:51:36.228</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

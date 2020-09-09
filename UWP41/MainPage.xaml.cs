@@ -37,6 +37,8 @@ namespace UWP41
             Icons.Add(new Icon { NameIcon = "Female-1", IconPath = "Assets/female-01.png" });
             Icons.Add(new Icon { NameIcon = "Female-2", IconPath = "Assets/female-02.png" });
             Icons.Add(new Icon { NameIcon = "Female-3", IconPath = "Assets/female-03.png" });
+            AvatarComboBox.ItemsSource = Icons;
+            AvatarComboBox.SelectedIndex = 0;
 
             Contacts = new ObservableCollection<Contact>();
         }

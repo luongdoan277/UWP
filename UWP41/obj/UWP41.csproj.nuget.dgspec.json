@@ -37,6 +37,10 @@
       "frameworks": {
         "uap10.0.17763": {
           "dependencies": {
+            "Gremlin.Net": {
+              "target": "Package",
+              "version": "[3.4.8, )"
+            },
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.10, )"
