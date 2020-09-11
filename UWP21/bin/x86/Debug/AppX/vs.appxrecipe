@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>A5236D427814041ECF4CBE1E0BC15D53AEC7B25D20C11A75A51C9F387D815AA4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>06D336921F79692FA58D7767360EEC06CAB70E1C9A67B535CD197D5278297FE6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>aae44a9e-fd5c-4eb8-8654-09cee5bf3591_1.0.0.0_x86__7t5t57w6b3ksy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>aae44a9e-fd5c-4eb8-8654-09cee5bf3591_7t5t57w6b3ksy!App</RegisteredUserModeAppID>
     <RegisteredPackageID>aae44a9e-fd5c-4eb8-8654-09cee5bf3591</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-04T05:55:49.235</Modified>
+      <Modified>2020-09-11T01:54:33.943</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\UWP21.exe">
-      <PackagePath>UWP21.exe</PackagePath>
-      <Modified>2020-09-04T05:55:49.105</Modified>
+      <PackagePath>entrypoint\UWP21.exe</PackagePath>
+      <Modified>2020-09-11T01:54:32.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -114,23 +114,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-09-04T05:45:53.052</Modified>
+      <Modified>2020-09-11T01:54:31.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-04T05:55:31.581</Modified>
+      <Modified>2020-09-11T01:54:31.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\UWP23-Financial.xbf">
       <PackagePath>UWP23-Financial.xbf</PackagePath>
-      <Modified>2020-09-04T05:55:48.965</Modified>
+      <Modified>2020-09-11T01:54:31.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\UWP23-Food.xbf">
       <PackagePath>UWP23-Food.xbf</PackagePath>
-      <Modified>2020-09-04T05:55:48.965</Modified>
+      <Modified>2020-09-11T01:54:31.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\UWP24.xbf">
       <PackagePath>UWP24.xbf</PackagePath>
-      <Modified>2020-09-04T05:55:48.965</Modified>
+      <Modified>2020-09-11T01:54:31.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -138,7 +138,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-09-04T05:55:49.203</Modified>
+      <Modified>2020-09-11T01:54:32.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP21\bin\x86\Debug\Core\UWP21.exe">
+      <PackagePath>UWP21.exe</PackagePath>
+      <Modified>2020-09-11T01:54:33.923</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -193,6 +197,42 @@
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

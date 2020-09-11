@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-09T03:06:07.066</Modified>
+      <Modified>2020-09-11T02:15:54.149</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\UWP40.exe">
       <PackagePath>entrypoint\UWP40.exe</PackagePath>
-      <Modified>2020-09-09T03:06:05.397</Modified>
+      <Modified>2020-09-11T02:15:52.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -98,30 +98,6 @@
       <PackagePath>Assets\9.png</PackagePath>
       <Modified>2020-09-09T01:40:22.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-01.png">
-      <PackagePath>Assets\female-01.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.547</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-02.png">
-      <PackagePath>Assets\female-02.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.550</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-03.png">
-      <PackagePath>Assets\female-03.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.552</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-01.png">
-      <PackagePath>Assets\male-01.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.555</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-02.png">
-      <PackagePath>Assets\male-02.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.558</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-03.png">
-      <PackagePath>Assets\male-03.png</PackagePath>
-      <Modified>2020-09-09T01:40:22.562</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-08-25T07:26:12.128</Modified>
@@ -162,15 +138,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\UWP40.xr.xml">
       <PackagePath>UWP40.xr.xml</PackagePath>
-      <Modified>2020-09-09T03:06:05.148</Modified>
+      <Modified>2020-09-11T02:15:52.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-09-09T03:06:05.175</Modified>
+      <Modified>2020-09-11T02:15:52.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\FriendList.xbf">
+      <PackagePath>FriendList.xbf</PackagePath>
+      <Modified>2020-09-11T02:15:52.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-09-09T03:06:05.175</Modified>
+      <Modified>2020-09-11T02:15:52.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -178,11 +158,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-09-09T03:06:05.814</Modified>
+      <Modified>2020-09-11T02:15:52.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\Core\UWP40.exe">
       <PackagePath>UWP40.exe</PackagePath>
-      <Modified>2020-09-09T03:06:07.054</Modified>
+      <Modified>2020-09-11T02:15:54.138</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

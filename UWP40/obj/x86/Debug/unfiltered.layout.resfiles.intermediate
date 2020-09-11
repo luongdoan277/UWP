@@ -12,13 +12,7 @@ Assets\6.png
 Assets\7.png
 Assets\8.png
 Assets\9.png
-Assets\female-01.png
-Assets\female-02.png
-Assets\female-03.png
 Assets\LockScreenLogo.scale-200.png
-Assets\male-01.png
-Assets\male-02.png
-Assets\male-03.png
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
@@ -26,6 +20,7 @@ Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
+FriendList.xbf
 MainPage.xbf
 UWP40.xr.xml
 Properties\Default.rd.xml

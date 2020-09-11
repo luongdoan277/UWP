@@ -73,24 +73,6 @@
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\9.png">
       <PackagePath>Assets\9.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-01.png">
-      <PackagePath>Assets\female-01.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-02.png">
-      <PackagePath>Assets\female-02.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\female-03.png">
-      <PackagePath>Assets\female-03.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-01.png">
-      <PackagePath>Assets\male-01.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-02.png">
-      <PackagePath>Assets\male-02.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\male-03.png">
-      <PackagePath>Assets\male-03.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
@@ -126,6 +108,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\FriendList.xbf">
+      <PackagePath>FriendList.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>

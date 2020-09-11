@@ -49,6 +49,7 @@
       <RootEvent Name="ItemClick" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="UWP40.FriendList" />
     <RootType FullName="UWP40.MainPage" />
   </Roots.RootTypes>
 </Roots>

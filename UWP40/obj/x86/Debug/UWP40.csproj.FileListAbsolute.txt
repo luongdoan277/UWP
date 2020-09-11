@@ -43,3 +43,8 @@ C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\qualifiers.txt.intermed
 C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885058160000000.json
+C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\FriendList.g.i.cs
+C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\FriendList.g.cs
+C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\FriendList.xaml
+C:\Users\Luong doan\source\repos\UWP\UWP40\obj\x86\Debug\FriendList.xbf
+C:\Users\Luong doan\source\repos\UWP\UWP40\bin\x86\Debug\FriendList.xbf
