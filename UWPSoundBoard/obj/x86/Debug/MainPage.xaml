@@ -17,7 +17,7 @@
         <RelativePanel>
             <Button x:ConnectionId='13' x:Name="HamburgerButton" RelativePanel.AlignLeftWithPanel="True" FontFamily="Segoe MDL2 Assets" FontSize="20" Width="45" Height="45" Content="&#xE700;"                              />
             <Button x:ConnectionId='14' x:Name="BackButton" RelativePanel.RightOf="HamburgerButton" FontFamily="Segoe MDL2 Assets" FontSize="20" Width="45" Height="45" Content="&#xE0A6;"                         />
-            <AutoSuggestBox x:ConnectionId='15' Name="SearchAutoSuggestBox" PlaceholderText="Search for sounds" Width="200" QueryIcon="Find"                                                                                                     RelativePanel.AlignRightWithPanel="True"/>
+            <AutoSuggestBox x:ConnectionId='15' Name="SearchAutoSuggestBox" PlaceholderText="Search for sounds" Width="200" QueryIcon="Find" Margin="0,5,10,0"                                                                                                     RelativePanel.AlignRightWithPanel="True"/>
         </RelativePanel>
         <SplitView x:ConnectionId='2' Grid.Row="1" Name="MySplitView" DisplayMode="CompactOverlay" CompactPaneLength="45" OpenPaneLength="200">
             <SplitView.Pane>
@@ -33,14 +33,14 @@
                 </ListView>
             </SplitView.Pane>
             <SplitView.Content>
-                <Grid>
+                <Grid Margin="20,0,0,0">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="*"/>
                     </Grid.RowDefinitions>
                     <MediaElement x:ConnectionId='8' Name="MyMediaElement" AutoPlay="True"/>
                     <TextBlock x:ConnectionId='9' Name="CategoryTextBlock" Text="All Sounds" FontSize="24"/>
-                    <GridView x:ConnectionId='10' Grid.Row="1" Name="SoundGridView" SelectionMode="None" IsItemClickEnabled="True"                                                                  >
+                    <GridView x:ConnectionId='10' Grid.Row="1" Name="SoundGridView" SelectionMode="None" IsItemClickEnabled="True" AllowDrop="True"                                                                                                                              >
                         <GridView.ItemTemplate>
                             <DataTemplate                        >
                                 <Image x:ConnectionId='12' Name="MyImage" Height="112" Width="101"                            />

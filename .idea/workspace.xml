@@ -12,6 +12,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f662d253-2a6f-42ad-93e9-919bb1f93de5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UWP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UWP/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/MainPage.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/MainPage.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/MainPage.xaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/UWPSoundBoard.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/UWPSoundBoard.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/XamlTypeInfo.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UWPSoundBoard/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +80,8 @@
       <workItem from="1599627705189" duration="635000" />
       <workItem from="1599637921184" duration="128000" />
       <workItem from="1599819342236" duration="724000" />
+      <workItem from="1599942165456" duration="137000" />
+      <workItem from="1600137078838" duration="17000" />
     </task>
     <servers />
   </component>
