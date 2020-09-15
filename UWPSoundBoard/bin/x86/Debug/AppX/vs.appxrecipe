@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>D182C17220BEC5A7F9C6E651135259DF1E2C45D9B6A0864382FFE1A0EBCF8AFD</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>AA6FF015E5D97DA8034C0FE52B0FCF27034B8E2B9321366E239D2CA22DD276DE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d4d529dd-3d06-4211-9b62-f31ca1abe21b_1.0.0.0_x86__7t5t57w6b3ksy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d4d529dd-3d06-4211-9b62-f31ca1abe21b_7t5t57w6b3ksy!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d4d529dd-3d06-4211-9b62-f31ca1abe21b</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-09-15T02:54:08.094</Modified>
+      <Modified>2020-09-15T06:28:08.411</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\bin\x86\Debug\UWPSoundBoard.exe">
       <PackagePath>entrypoint\UWPSoundBoard.exe</PackagePath>
-      <Modified>2020-09-15T02:54:07.601</Modified>
+      <Modified>2020-09-15T06:28:08.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -178,6 +178,11 @@
       <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T07:26:12.133</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-08-25T07:26:12.128</Modified>
@@ -234,11 +239,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-09-15T02:38:33.631</Modified>
+      <Modified>2020-09-15T06:24:35.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWPSoundBoard\bin\x86\Debug\Core\UWPSoundBoard.exe">
       <PackagePath>UWPSoundBoard.exe</PackagePath>
-      <Modified>2020-09-15T02:54:08.090</Modified>
+      <Modified>2020-09-15T06:28:08.408</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
