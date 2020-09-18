@@ -27,6 +27,8 @@
       <change afterPath="$PROJECT_DIR$/UWPss/MainPage.xaml.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/Models/MenuItem.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/Models/NewFeeds.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/NewsControl.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/NewsControl.xaml.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/Package.appxmanifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/Properties/AssemblyInfo.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/Properties/Default.rd.xml" afterDir="false" />
@@ -39,12 +41,25 @@
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/App.g.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/App.xbf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/MainPage.g.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/MainPage.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/NewsControl.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/NewsControl.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/NewsControl.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/NewsControl.xbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/UWPss.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/UWPss.csproj.FileListAbsolute.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/UWPss.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/UWPss.xr.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/XamlTypeInfo.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/intermediatexaml/UWPss.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UWPss/obj/x86/Debug/intermediatexaml/UWPss.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/UWP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UWP/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UWP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/UWP.sln" afterDir="false" />
@@ -128,6 +143,7 @@
       <workItem from="1600151178839" duration="7000" />
       <workItem from="1600151376919" duration="947000" />
       <workItem from="1600215812658" duration="246000" />
+      <workItem from="1600221451768" duration="57000" />
     </task>
     <servers />
   </component>

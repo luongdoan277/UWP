@@ -73,6 +73,45 @@
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_3.xbf">
+      <PackagePath>UWP17_3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP11.xbf">
+      <PackagePath>UWP11.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP13.xbf">
+      <PackagePath>UWP13.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP15.xbf">
+      <PackagePath>UWP15.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_1.xbf">
+      <PackagePath>UWP17_1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_2.xbf">
+      <PackagePath>UWP17_2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8.xbf">
+      <PackagePath>UWP8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_1.xbf">
+      <PackagePath>UWP8_1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_2.xbf">
+      <PackagePath>UWP8_2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_3.xbf">
+      <PackagePath>UWP8_3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9.xbf">
+      <PackagePath>UWP9.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9_1.xbf">
+      <PackagePath>UWP9_1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9_2.xbf">
+      <PackagePath>UWP9_2.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>

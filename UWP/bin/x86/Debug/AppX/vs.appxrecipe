@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-31T10:40:50.884</Modified>
+      <Modified>2020-09-18T08:52:33.879</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP.exe">
       <PackagePath>entrypoint\UWP.exe</PackagePath>
-      <Modified>2020-08-31T10:40:49.952</Modified>
+      <Modified>2020-09-18T08:52:33.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,15 +86,67 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP.xr.xml">
       <PackagePath>UWP.xr.xml</PackagePath>
-      <Modified>2020-08-31T10:40:49.787</Modified>
+      <Modified>2020-09-18T08:52:32.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-31T10:40:49.814</Modified>
+      <Modified>2020-09-18T08:52:32.919</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-08-31T10:40:49.814</Modified>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_3.xbf">
+      <PackagePath>UWP17_3.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP11.xbf">
+      <PackagePath>UWP11.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP13.xbf">
+      <PackagePath>UWP13.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP15.xbf">
+      <PackagePath>UWP15.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_1.xbf">
+      <PackagePath>UWP17_1.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP17_2.xbf">
+      <PackagePath>UWP17_2.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8.xbf">
+      <PackagePath>UWP8.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_1.xbf">
+      <PackagePath>UWP8_1.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_2.xbf">
+      <PackagePath>UWP8_2.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP8_3.xbf">
+      <PackagePath>UWP8_3.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9.xbf">
+      <PackagePath>UWP9.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9_1.xbf">
+      <PackagePath>UWP9_1.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\UWP9_2.xbf">
+      <PackagePath>UWP9_2.xbf</PackagePath>
+      <Modified>2020-09-18T08:52:32.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +154,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-31T10:40:50.310</Modified>
+      <Modified>2020-09-18T08:52:33.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luong doan\source\repos\UWP\UWP\bin\x86\Debug\Core\UWP.exe">
       <PackagePath>UWP.exe</PackagePath>
-      <Modified>2020-08-31T10:40:50.874</Modified>
+      <Modified>2020-09-18T08:52:33.869</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
